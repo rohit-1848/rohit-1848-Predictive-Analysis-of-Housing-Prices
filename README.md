@@ -10,7 +10,7 @@ All code and analysis live in **`Predictive Analysis of Housing Price.ipynb`
 ├── train.csv # 1 460 × 81 – training data 
 ├── test.csv # 1 459 × 80 – evaluation data (no SalePrice)
 ├── data_description.txt # original feature definitions
-├── Untitled.ipynb (Predictive Analysis of Housing Price.ipynb)
+├── Predictive Analysis of Housing Price.ipynb
 ├── Prediction.csv # output: Id, SalePrice
 └── README.md
 ```
