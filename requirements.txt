@@ -1,0 +1,17 @@
+# Core data stack
+pandas==2.2.2
+numpy==1.27.0
+scipy==1.13.0
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.5.0
+xgboost>=2.1.0b1      # 2.1.0+ provides wheels for Python 3.13
+lightgbm==4.3.0
+catboost==1.1.2
+
+# Notebook environment (meta‑package pulls in notebook, ipykernel, jlab, etc.)
+jupyter==1.0.0
